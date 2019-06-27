@@ -1,0 +1,2 @@
+ID,requisition_id,product_id,product_uom_id,product_qty
+requisition_line1,requisition1,product.product_product_13,product.product_uom_unit,5

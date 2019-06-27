@@ -1,0 +1,2 @@
+ID,user_id,warehouse_id
+requisition1,base.user_root,stock.stock_warehouse_shop0

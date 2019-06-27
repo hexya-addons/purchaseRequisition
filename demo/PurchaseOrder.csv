@@ -1,0 +1,3 @@
+ID,partner_id,requisition_id
+rfq1,base.res_partner_4,requisition1
+rfq2,base.res_partner_1,requisition1

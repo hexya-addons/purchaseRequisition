@@ -1,0 +1,3 @@
+ID,order_id,name,date_planned,product_id,product_uom,price_unit,product_qty
+rfq1_line,rfq1,[RAM-SR5] RAM DDR SR5,,product.product_product_13,product.product_uom_unit,60,5
+rfq2_line,rfq2,[RAM-SR5] RAM DDR SR5,,product.product_product_13,product.product_uom_unit,50,3
